@@ -1,0 +1,318 @@
+/* Our App */
+body {
+    width: 1200px solid;
+    height: 1399px;
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Sidebar */
+.sidebar-section {
+    background-color: lightcyan;
+}
+
+.app-wrapper {
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+}
+
+.sidebar-image {
+    margin-top: 40px;
+    margin-right: 40px;
+}
+
+.contacts-container {
+    padding-left: 40px;
+}
+
+.contacts-header {
+    color: #161D2A;
+   font-size: 22px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+}
+
+.contacts-phone {
+    color: #4489FF;   
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px;
+   text-decoration: none;
+   margin-left: 7px;
+}
+
+.contacts-email {
+    color: #4489FF;   
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px;
+   text-decoration: none;
+   margin-left: 7px;
+}
+
+.contacts-element {
+    margin-top: -10px;
+}
+
+.soft-skils {
+    padding-top: 35px;
+}
+
+.Tech-Skills {
+    padding-top: 35px;
+}
+
+.tech-skills-header {
+    color: #161D2A;
+   font-size: 22px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+}
+
+.tech-skills-list {
+    color: #161D2A;
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px;
+   margin-top: -10px;
+   margin-left: -10px;
+}
+
+.soft-skils-header {
+    color: #161D2A;
+   font-size: 22px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+}
+
+.soft-skils-list {
+    color: #161D2A;
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px;
+   margin-top: -10px;
+   margin-left: -10px;
+}
+
+/* Main Content */
+.right-side-container {
+    padding-left: 100px;
+}
+
+.about-me-section {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.company-info {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    color: #4489FF;
+    padding-left: 15px;
+}
+
+.GoIT {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    padding-top: 0px;
+    color: #4489FF;
+}
+
+.company-name {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    padding-top: 0px;
+    color: #000;
+}
+
+.Projects {
+    padding-bottom: 50px;
+}
+
+.January-2019 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+    padding-top: 0px;
+    padding-bottom: 150px;
+    color: #A8A8A8;
+}
+
+.September2009 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    padding-top: 0px;
+    color: #A8A8A8;
+}
+
+.Front-End-Developer-Freelance {
+    padding-bottom: 50px;
+}
+
+.managergloryLLC {
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+.Education {
+    color: #000;
+}
+
+.National-University {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    color: #4489FF;
+    padding-top: 8px;
+}
+
+.june2004 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+    color: #A8A8A8;
+    padding-top: 0px;
+    padding-bottom: 4px;
+}
+
+.Projects {
+    padding-bottom: 41.02px;
+}
+
+.march2022 {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    padding-top: 0px;
+    padding-bottom: 4px;
+    color: #A8A8A8;
+}
+
+.october2019 {
+    color: #A8A8A8;
+    padding-top: 0px;
+    padding-bottom: 4px;
+}
+
+.Management1 {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    padding-top: 0px;
+}
+
+.Fullstack-Online {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    padding-top: 0px;
+}
+
+.about-name {
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Front-End-Developer {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.about-me-section-paragraf {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.about-projects {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.about-learning {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.about-workspace {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Front-End-Developer-Freelance-li {
+    color: #595959;
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.Manager-Glory {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.managergloryLLCli {
+    color: #595959;
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.about-educaton-title {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
